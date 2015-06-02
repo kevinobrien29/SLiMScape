@@ -1,0 +1,10 @@
+#Thu Feb 21 18:45:01 GMT 2013
+runsdirectory=/home/kevin/Desktop/slim_domain_vis/slimsuite/runs/
+pythonhome=
+slimsuitehome=/home/kevin/Desktop/slim_domain_vis/slimsuite
+detectPythonAutomatically=true
+clustalwpath=/home/kevin/bio_programs/Tools/clustalw2/clustalw2
+orthdbpath=/home/kevin/Desktop/slim_domain_vis/proteomes/ens_loci_proteomes.101018.fas
+blastpath=/home/kevin/bio_programs/Tools/blast/bin
+iupredpath=/home/kevin/bio_programs/Tools/iupred/iupred
+musclepath=/home/kevin/bio_programs/Tools/muscle/muscle
